@@ -93,17 +93,4 @@ Alice,Water,50,250
 - Master logic for **data filtering and aggregation**
 - Debug and fix real-world integration issues
 
----
 
-## 👨‍💻 Author
-
-**Your Name**  
-Final-year Computer Science Student  
-Contact: [your email or LinkedIn]  
-GitHub: [your GitHub profile]
-
----
-
-## 📄 License
-
-This project is for learning purposes and is open for educational or non-commercial use.
