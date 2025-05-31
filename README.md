@@ -32,7 +32,7 @@ SmartUtilityManagementSystem/
 ├── BillManagerGUI.java      # Handles bill logic for GUI
 ├── Main.java                # Console version (text-based menu)
 ├── SmartUtilityGUI.java     # GUI version with Java Swing
-├── sample_bills.csv         # Sample CSV file for import/export
+├── final_bills.csv         # Sample CSV file for import/export
 ```
 
 ---
